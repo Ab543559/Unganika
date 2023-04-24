@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Hello! It's Freshman
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website For: Unganika Tecnologies
+Description: This is a Company Website 
+Author: Arnold Simony
+Designation: Co-founder & Managing Director
